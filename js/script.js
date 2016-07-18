@@ -11,7 +11,7 @@
             var theBody = document.getElementsByTagName("body")[0];
             // create smiley
             var smiley = document.createElement("img");
-            smiley.src = "smile.png";
+            smiley.src = "img/smile.png";
             smiley.style.top = imageTopPosition + "px";
             smiley.style.left = imageLeftPosition + "px";
             theLeftSide.appendChild(smiley);
